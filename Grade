@@ -8,23 +8,23 @@ void main()
     {
         printf("Wrong Entry");
     }
-    else if(marks<50)
+    else if(marks<40)
     {
         printf("Grade F");
     }
-    else if(marks>=50 && marks<60)
+    else if(marks>=40 && marks<54)
     {
         printf("Grade D");
     }
-    else if(marks>=60 && marks<70)
+    else if(marks>=55 && marks<69)
     {
         printf("Grade C");
     }
-    else if(marks>=70 && marks<80)
+    else if(marks>=70 && marks<84)
     {
         printf("Grade B");
     }
-    else if(marks>=80 && marks<90)
+    else
     {
         printf("Grade A");
     }
