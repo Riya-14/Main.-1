@@ -2,7 +2,7 @@
 void main()
 {
     int marks;
-    printf("Enter your marks :");
+    printf("Enter your marks : ");
     scanf("%d",&marks);
     if(marks<0 || marks>100)
     {
