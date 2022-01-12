@@ -28,3 +28,5 @@ void main()
     {
         printf("Grade A");
     }
+    return 0;
+}
